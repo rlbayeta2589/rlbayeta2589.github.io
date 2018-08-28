@@ -1,0 +1,25 @@
+{
+  "name": "rlbayeta2589.github.io",
+  "version": "1.0.0",
+  "description": "Personal Site",
+  "main": "\u0014",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "node-sass --watch bin/scss -o assets/styles --output-style expanded",
+    "sass-build": "node-sass bin/scss -o assets/styles --output-style expanded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlbayeta2589/rlbayeta2589.github.io.git"
+  },
+  "author": "Rey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlbayeta2589/rlbayeta2589.github.io/issues"
+  },
+  "homepage": "https://github.com/rlbayeta2589/rlbayeta2589.github.io#readme"
+}
